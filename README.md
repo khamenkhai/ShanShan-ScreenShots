@@ -6,6 +6,15 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
 
 ## 📲 Demo Flow – Step-by-Step
 
+### 🛡️ 0️⃣ Login
+- Start by logging into the system with a valid username and password.
+- Ensures only authorized staff can access the POS.
+- After login, you'll be redirected to the Home screen.
+
+> ![Step 0: Login](screenshots/step_0_login.png)
+
+---
+
 ### 1️⃣ Add Table Number
 - Start a sale by entering the table number.
 - Prevents anonymous orders and links sale to a location.
@@ -112,6 +121,7 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
 
 ## 🧱 Features Recap
 
+- 🔐 Secure Login
 - 📦 Product/Menu/Category CRUD
 - 🍛 Taste Level & Notes
 - 💳 Multiple Payment Methods
