@@ -11,7 +11,7 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
 - Ensures only authorized staff can access the POS.
 - After login, you'll be redirected to the Home screen.
 
-> ![Step 0: Login](screenshots/step_0_login.png)
+> ![Step 0: Login] ![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274496.png?raw=true)
 
 ---
 
@@ -19,7 +19,7 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
 - Start a sale by entering the table number.
 - Prevents anonymous orders and links sale to a location.
 
-> ![Step 1: Enter Table Number](screenshots/step_1_table_number.png)
+> ![Step 1: Enter Table Number]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274540.png?raw=true)
 
 ---
 
