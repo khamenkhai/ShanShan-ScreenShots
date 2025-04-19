@@ -28,14 +28,14 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
 - Products can have quantity, taste level, and optional notes.
 - Items are added to a live cart.
 
-> ![Step 2: Add Products](screenshots/step_2_add_products.png)
+> ![Step 2: Add Products]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274602.png?raw=true)
 
 ---
 
 ### 3️⃣ Choose Payment Method
 - After confirming the cart, choose a payment type: `Cash`, `Card`, or `Other`.
 
-> ![Step 3: Choose Payment](screenshots/step_3_payment.png)
+> ![Step 3: Choose Payment]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274612.png?raw=true)
 
 ---
 
@@ -45,7 +45,7 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
   - Enter: Remarks (optional)
   - Choose: How many **prawn** and **octopus** were selected (optional)
 
-> ![Step 4: Dine-in Dialog](screenshots/step_4_dinein_parcel_dialog.png)
+> ![Step 4: Dine-in Dialog]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274612.png?raw=true)
 
 ---
 
@@ -57,7 +57,7 @@ A full-featured restaurant **Point of Sale system** built with Flutter. Designed
   - Ask: "Do you want to print slip?"
 - Press `Checkout` to confirm the sale.
 
-> ![Step 5: Checkout](screenshots/step_5_checkout.png)
+> ![Step 5: Checkout]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274632.png?raw=true)
 
 ---
 
