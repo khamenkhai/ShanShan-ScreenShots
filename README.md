@@ -1,151 +1,153 @@
-# 🍽️ Flutter Restaurant POS System
+# SHANSHAN Mala Xiang Guo 🍲💻
 
-A full-featured restaurant **Point of Sale system** built with Flutter. Designed for real-world use in dine-in or takeaway restaurants. It covers everything from table-based sales to editable sale history and detailed reports.
-
----
-
-## 📲 Demo Flow – Step-by-Step
-
-### 🛡️ 0️⃣ Login
-- Start by logging into the system with a valid username and password.
-- Ensures only authorized staff can access the POS.
-- After login, you'll be redirected to the Home screen.
-
-> ![Step 0: Login] ![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274496.png?raw=true)
+A custom-built Point of Sale (POS) application tailored for a Mala Xiang Guo restaurant using Flutter. This system is optimized for dine-in and takeaway experiences, providing an efficient order workflow for restaurant staff. Built with a sleek UI, multi-language support, and dynamic theming!
 
 ---
 
-### 1️⃣ Add Table Number
-- Start a sale by entering the table number.
-- Prevents anonymous orders and links sale to a location.
+## 📸 Screenshots
 
-> ![Step 1: Enter Table Number]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274540.png?raw=true)
+> Replace `screenshots/screen_x.png` with actual screenshot paths.
 
----
-
-### 2️⃣ Add Menu & Products
-- Select category, menu, and products.
-- Products can have quantity, taste level, and optional notes.
-- Items are added to a live cart.
-
-> ![Step 2: Add Products]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274602.png?raw=true)
+### 1. 🔐 Login Screen
+Staff logs in to access the POS system.
+![Login Screen](screenshots/login_screen.png)
 
 ---
 
-### 3️⃣ Choose Payment Method
-- After confirming the cart, choose a payment type: `Cash`, `Card`, or `Other`.
-
-> ![Step 3: Choose Payment]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274612.png?raw=true)
-
----
-
-### 4️⃣ Dine-In or Parcel Dialog
-- A dialog appears:
-  - Choose: **Dine-In** or **Parcel**
-  - Enter: Remarks (optional)
-  - Choose: How many **prawn** and **octopus** were selected (optional)
-
-> ![Step 4: Dine-in Dialog]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274612.png?raw=true)
+### 2. 🏠 Home Screen
+Quick access to add products, view history, reports, and control panel.
+![Home Screen](screenshots/home_screen.png)
 
 ---
 
-### 5️⃣ Checkout Page
-- See final sale summary:
-  - Table number
-  - Products, quantity, and total
-  - Tax and discount breakdown
-  - Ask: "Do you want to print slip?"
-- Press `Checkout` to confirm the sale.
-
-> ![Step 5: Checkout]![image alt](https://github.com/khamenkhai/ShanShan-ScreenShots/blob/main/screenshots/Screenshot_1741274632.png?raw=true)
+### 3. ➕ Add Product & Choose Quantity
+Products are categorized for easy browsing. Add product and select quantity.
+![Add Product](screenshots/add_product_screen.png)
 
 ---
 
-### 6️⃣ Sale Success
-- Show success dialog or toast.
-- Auto-navigate back to Home.
-
-> ![Step 6: Success](screenshots/step_6_success.png)
+### 4. 🌶 Choose Taste Level
+Each dish requires a taste level selection (e.g., mild, medium, spicy).
+![Taste Level](screenshots/taste_level_screen.png)
 
 ---
 
-### 7️⃣ View Sale History
-- Go to the **History** tab.
-- See all past transactions listed by date and time.
+### 5. 💳 Payment Method & Order Details Dialog
+Before finalizing the payment, a dialog will prompt for:
+- Table Number
+- Remark
+- Order Type: Dine-in or Takeaway
+- Octopus Count
+- Prawn Count
 
-> ![Step 7: History List](screenshots/step_7_history_list.png)
-
----
-
-### 8️⃣ View History Detail
-- Tap a history item to view its full detail:
-  - Items sold
-  - Table number
-  - Payment method
-  - Remarks
-  - Parcel/Dine-in
-
-> ![Step 8: History Detail](screenshots/step_8_history_detail.png)
+![Order Details Dialog](screenshots/order_dialog_screen.png)
 
 ---
 
-### 9️⃣ Edit Sale History
-- Tap `Edit` to:
-  - Update products
-  - Change remarks or quantity
-  - Modify octopus/prawn counts
-
-> ![Step 9: Edit History](screenshots/step_9_edit.png)
+### 6. 💵 Cash Screen
+If cash is selected, input the received amount to calculate change.
+![Cash Payment](screenshots/cash_screen.png)
 
 ---
 
-### 🔟 Edit History Success
-- Save changes and confirm update.
-- Sale updates reflected immediately in history and reports.
-
-> ![Step 10: Edit Success](screenshots/step_10_edit_success.png)
+### 7. 🧾 Voucher (Slip) with Tax
+If the order requires a printed voucher, a 5% tax is added to the grand total.
+![Voucher With Tax](screenshots/voucher_tax_screen.png)
 
 ---
 
-### 🔢 View Sale Reports
-- Go to the **Reports** tab.
-- Filter by:
-  - 🗓️ Daily
-  - 📅 Weekly
-  - 📈 Monthly
-- View total sales, tax, discounts, and net revenue.
-
-> ![Step 11: Reports](screenshots/step_11_reports.png)
+### 8. ✅ Checkout & Success Screen
+After confirming the order, the staff sees a success screen. Payment method can still be adjusted post-checkout.
+![Success Screen](screenshots/success_screen.png)
 
 ---
 
-## 🧱 Features Recap
+## 🛠 Control Panel
 
-- 🔐 Secure Login
-- 📦 Product/Menu/Category CRUD
-- 🍛 Taste Level & Notes
-- 💳 Multiple Payment Methods
-- 🧾 Receipt/Slip Printing
-- 🕑 Sale History + Edit
-- 📊 Sales Reports with Filtering
-- ✅ Clean Architecture + BLoC
+Manage core entities with full CRUD operations:
+- 🍱 Products
+- 📂 Categories
+- 🍽 Menu Items
+- 🌶 Taste Levels
 
----
-
-## 🛠️ Tech Stack
-
-- Flutter 3.x
-- flutter_bloc
-- SQLite / Supabase / Laravel backend
-- esc_pos_printer / bluetooth_print
-- fl_chart for reporting
+![Control Panel](screenshots/control_panel_screen.png)
 
 ---
 
-## 📦 Setup
+## 📊 Sale Reports
 
-```bash
-git clone https://github.com/yourusername/flutter-pos-restaurant.git
-cd flutter-pos-restaurant
-flutter pub get
-flutter run
+View sales summary by:
+- Daily
+- Weekly
+- Monthly
+
+![Sales Report](screenshots/sales_report_screen.png)
+
+---
+
+## 🕓 Order History
+
+View all past transactions. Staff can edit orders post-checkout to correct human mistakes.
+![History Screen](screenshots/history_screen.png)
+
+---
+
+## 🌍 Localization
+
+App supports multiple languages for diverse staff.
+
+![Localization](screenshots/localization_screen.png)
+
+---
+
+## 🎨 Dynamic Theming
+
+- Change the primary color on the fly
+- Supports dark mode for night shifts
+
+![Theming](screenshots/dark_mode_screen.png)
+
+---
+
+## 🔓 Logout
+
+Simple and secure logout function for session management.
+
+![Logout](screenshots/logout_screen.png)
+
+---
+
+## 🏗 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **BLoC State Management**
+- **SQLite / REST APIs**
+- **Dynamic Theming**
+- **Localization**
+
+---
+
+## 📦 Coming Soon / To-Do
+- Role-based access control (admin vs staff)
+- Printer Integration
+- Offline mode sync
+
+---
+
+## 👨‍🍳 Built For
+
+This project was made specifically for my friend's Mala Xiang Guo restaurant to streamline orders, enhance accuracy, and manage restaurant operations with ease.
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork and contribute! Open an issue for any suggestions or bugs.
+
+---
+
+## 📄 License
+
+MIT License
+
