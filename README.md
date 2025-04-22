@@ -1,12 +1,11 @@
 # SHANSHAN Mala Xiang Guo 🍲💻
 
-A custom-built Point of Sale (POS) application tailored for a Mala Xiang Guo restaurant using Flutter. This system is optimized for dine-in and takeaway experiences, providing an efficient order workflow for restaurant staff. Built with a sleek UI, multi-language support, and dynamic theming!
+A custom-built Point of Sale (POS) application tailored for a Shan Shan Mala Xiang Guo restaurant in Yangon. This system is optimized for dine-in and takeaway experiences, providing an efficient order workflow for restaurant staff. Built with a sleek UI, multi-language support, and dynamic theming!
 
 ---
 
 ## 📸 Screenshots
 
-> Replace `screenshots/screen_x.png` with actual screenshot paths.
 
 ### 1. 🔐 Login Screen
 Staff logs in to access the POS system.
@@ -127,18 +126,13 @@ Simple and secure logout function for session management.
 - **Flutter**
 - **Dart**
 - **BLoC State Management**
-- **SQLite / REST APIs**
+- **REST APIs**
 - **Dynamic Theming**
 - **Localization**
+- **Printer Integration**
 
 ---
 
-## 📦 Coming Soon / To-Do
-- Role-based access control (admin vs staff)
-- Printer Integration
-- Offline mode sync
-
----
 
 ## 👨‍🍳 Built For
 
@@ -146,13 +140,6 @@ This project was made specifically for my friend's Mala Xiang Guo restaurant to 
 
 ---
 
-## 🤝 Contributing
 
-Feel free to fork and contribute! Open an issue for any suggestions or bugs.
 
----
-
-## 📄 License
-
-MIT License
 
