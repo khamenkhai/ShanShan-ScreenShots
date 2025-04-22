@@ -10,25 +10,25 @@ A custom-built Point of Sale (POS) application tailored for a Mala Xiang Guo res
 
 ### 1. 🔐 Login Screen
 Staff logs in to access the POS system.
-![Login Screen](screenshots/login_screen.png)
+![Login Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/login.png?raw=true)
 
 ---
 
 ### 2. 🏠 Home Screen
 Quick access to add products, view history, reports, and control panel.
-![Home Screen](screenshots/home_screen.png)
+![Home Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/home.png?raw=true)
 
 ---
 
 ### 3. ➕ Add Product & Choose Quantity
 Products are categorized for easy browsing. Add product and select quantity.
-![Add Product](screenshots/add_product_screen.png)
+![Add Product]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_product.png?raw=true)
 
 ---
 
 ### 4. 🌶 Choose Taste Level
 Each dish requires a taste level selection (e.g., mild, medium, spicy).
-![Taste Level](screenshots/taste_level_screen.png)
+![Taste Level]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/choose_taste_levels.png?raw=true)
 
 ---
 
@@ -40,25 +40,25 @@ Before finalizing the payment, a dialog will prompt for:
 - Octopus Count
 - Prawn Count
 
-![Order Details Dialog](screenshots/order_dialog_screen.png)
+![Order Details Dialog]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/checkout_dialog.png?raw=true)
 
 ---
 
 ### 6. 💵 Cash Screen
 If cash is selected, input the received amount to calculate change.
-![Cash Payment](screenshots/cash_screen.png)
+![Cash Payment]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_no_voucher.png?raw=true)
 
 ---
 
 ### 7. 🧾 Voucher (Slip) with Tax
 If the order requires a printed voucher, a 5% tax is added to the grand total.
-![Voucher With Tax](screenshots/voucher_tax_screen.png)
+![Voucher With Tax]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_amount_voucher.png?raw=true)
 
 ---
 
 ### 8. ✅ Checkout & Success Screen
 After confirming the order, the staff sees a success screen. Payment method can still be adjusted post-checkout.
-![Success Screen](screenshots/success_screen.png)
+![Success Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/ordre_success.png?raw=true)
 
 ---
 
@@ -70,7 +70,7 @@ Manage core entities with full CRUD operations:
 - 🍽 Menu Items
 - 🌶 Taste Levels
 
-![Control Panel](screenshots/control_panel_screen.png)
+![Control Panel]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
@@ -81,14 +81,14 @@ View sales summary by:
 - Weekly
 - Monthly
 
-![Sales Report](screenshots/sales_report_screen.png)
+![Sales Report]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
 
 ---
 
 ## 🕓 Order History
 
 View all past transactions. Staff can edit orders post-checkout to correct human mistakes.
-![History Screen](screenshots/history_screen.png)
+![History Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
 
 ---
 
@@ -96,7 +96,7 @@ View all past transactions. Staff can edit orders post-checkout to correct human
 
 App supports multiple languages for diverse staff.
 
-![Localization](screenshots/localization_screen.png)
+![Localization]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
@@ -105,7 +105,7 @@ App supports multiple languages for diverse staff.
 - Change the primary color on the fly
 - Supports dark mode for night shifts
 
-![Theming](screenshots/dark_mode_screen.png)
+![Theming]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
@@ -113,7 +113,7 @@ App supports multiple languages for diverse staff.
 
 Simple and secure logout function for session management.
 
-![Logout](screenshots/logout_screen.png)
+![Logout]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
