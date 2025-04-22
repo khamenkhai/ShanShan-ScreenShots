@@ -1,6 +1,6 @@
-# SHANSHAN Mala Xiang Guo 🍲💻
+# SHANSHAN Mala Mao Chai 🍲💻
 
-A custom-built Point of Sale (POS) application tailored for a Shan Shan Mala Xiang Guo restaurant in Yangon. This system is optimized for dine-in and takeaway experiences, providing an efficient order workflow for restaurant staff. Built with a sleek UI, multi-language support, and dynamic theming!
+A custom-built Point of Sale (POS) application tailored for a Shan Shan Mala Mao Chai restaurant in Yangon. This system is optimized for dine-in and takeaway experiences, providing an efficient order workflow for restaurant staff. Built with a sleek UI, multi-language support, and dynamic theming!
 
 ---
 
