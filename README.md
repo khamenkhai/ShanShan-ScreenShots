@@ -83,14 +83,14 @@ View sales summary by:
 - Weekly
 - Monthly
 
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
 
 ---
 
 ## 🕓 Order History
 
 View all past transactions. Staff can edit orders post-checkout to correct human mistakes.
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
 
 ---
 
@@ -98,8 +98,8 @@ View all past transactions. Staff can edit orders post-checkout to correct human
 
 App supports multiple languages for diverse staff.
 
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339076.png?raw=true)
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339081.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339076.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339081.png?raw=true)
 
 ---
 
@@ -108,9 +108,9 @@ App supports multiple languages for diverse staff.
 - Change the primary color on the fly
 - Supports dark mode for night shifts
 
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339331.png?raw=true)
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339350.png?raw=true)
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339358.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339331.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339350.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339358.png?raw=true)
 
 ---
 
