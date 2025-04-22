@@ -118,7 +118,7 @@ App supports multiple languages for diverse staff.
 
 Simple and secure logout function for session management.
 
-![Logout]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339966.png?raw=true)
 
 ---
 
