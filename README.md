@@ -10,25 +10,25 @@ A custom-built Point of Sale (POS) application tailored for a Mala Xiang Guo res
 
 ### 1. 🔐 Login Screen
 Staff logs in to access the POS system.
-![Login Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/login.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/login.png?raw=true)
 
 ---
 
 ### 2. 🏠 Home Screen
 Quick access to add products, view history, reports, and control panel.
-![Home Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/home.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/home.png?raw=true)
 
 ---
 
 ### 3. ➕ Add Product & Choose Quantity
 Products are categorized for easy browsing. Add product and select quantity.
-![Add Product]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_product.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_product.png?raw=true)
 
 ---
 
 ### 4. 🌶 Choose Taste Level
 Each dish requires a taste level selection (e.g., mild, medium, spicy).
-![Taste Level]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/choose_taste_levels.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/choose_taste_levels.png?raw=true)
 
 ---
 
@@ -40,25 +40,25 @@ Before finalizing the payment, a dialog will prompt for:
 - Octopus Count
 - Prawn Count
 
-![Order Details Dialog]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/checkout_dialog.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/checkout_dialog.png?raw=true)
 
 ---
 
 ### 6. 💵 Cash Screen
 If cash is selected, input the received amount to calculate change.
-![Cash Payment]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_no_voucher.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_no_voucher.png?raw=true)
 
 ---
 
 ### 7. 🧾 Voucher (Slip) with Tax
 If the order requires a printed voucher, a 5% tax is added to the grand total.
-![Voucher With Tax]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_amount_voucher.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_amount_voucher.png?raw=true)
 
 ---
 
 ### 8. ✅ Checkout & Success Screen
 After confirming the order, the staff sees a success screen. Payment method can still be adjusted post-checkout.
-![Success Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/ordre_success.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/ordre_success.png?raw=true)
 
 ---
 
@@ -70,7 +70,9 @@ Manage core entities with full CRUD operations:
 - 🍽 Menu Items
 - 🌶 Taste Levels
 
-![Control Panel]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339052.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339055.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339061.png?raw=true)
 
 ---
 
@@ -81,14 +83,14 @@ View sales summary by:
 - Weekly
 - Monthly
 
-![Sales Report]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
 
 ---
 
 ## 🕓 Order History
 
 View all past transactions. Staff can edit orders post-checkout to correct human mistakes.
-![History Screen]![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
 
 ---
 
@@ -96,7 +98,8 @@ View all past transactions. Staff can edit orders post-checkout to correct human
 
 App supports multiple languages for diverse staff.
 
-![Localization]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339076.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339081.png?raw=true)
 
 ---
 
@@ -105,7 +108,9 @@ App supports multiple languages for diverse staff.
 - Change the primary color on the fly
 - Supports dark mode for night shifts
 
-![Theming]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339331.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339350.png?raw=true)
+[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339358.png?raw=true)
 
 ---
 
